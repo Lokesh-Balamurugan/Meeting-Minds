@@ -6,8 +6,6 @@ This project is a speech-to-text pipeline that can transcribe audio files and ge
 ## Please Use these applications judiciously as we are running low on Free Credits, Deal ? 
 - Streamlit Application - http://34.138.127.169:8051
 - Airflow - http://34.138.127.169:8080
-- Codelabs - https://codelabs-preview.appspot.com/?file_id=13IiASFrZKI9m-6Wwch8DBNbi6ufG1J44GHJpRr1mhos#9
-- Demo of application - https://www.youtube.com/watch?v=stlX149161E
 
 # Project Tree
 ```
